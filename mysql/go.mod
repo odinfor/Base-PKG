@@ -1,4 +1,4 @@
-module github.com/odinfor/Base-PKG/pkgmysql
+module github.com/odinfor/Base-PKG/mysql
 
 go 1.22.3
 
